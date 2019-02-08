@@ -1,0 +1,868 @@
+-----------------
+| Instante k: 0 |
+-----------------
+Atividade: "A"
+Tempo estimado: 10
+Tempo atual: 1
+Tempo de inicio cedo(Tes): 0
+Tempo de inicio tarde(Tef): 10
+Tempo de termino tarde(Tlf): 10
+Tempo de termino cedo(Tls): 0
+Folga(GAP): 0
+Custo estimado: 700
+Custo atual: 70
+
+---------- Estado Interno do AMon ----------
+Valor Planejado: 70
+Valor Agregado: 70
+Variacao do periodo: 0
+Variacao do custo real: 0
+Indice de performance do custo: 1
+Indice de performance agendada: 1
+
+---------- Mensagens Preventivas ----------
+"Dentro do Orcamento."
+"Dentro do Cronograma."
+"Dentro do Cronograma."
+"Dentro do Orcamento."
+
+-----------------
+| Instante k: 1 |
+-----------------
+Atividade: "A"
+Tempo estimado: 10
+Tempo atual: 2
+Tempo de inicio cedo(Tes): 0
+Tempo de inicio tarde(Tef): 10
+Tempo de termino tarde(Tlf): 10
+Tempo de termino cedo(Tls): 0
+Folga(GAP): 0
+Custo estimado: 700
+Custo atual: 140
+
+---------- Estado Interno do AMon ----------
+Valor Planejado: 140
+Valor Agregado: 140
+Variacao do periodo: 0
+Variacao do custo real: 0
+Indice de performance do custo: 1
+Indice de performance agendada: 1
+
+---------- Mensagens Preventivas ----------
+"Dentro do Orcamento."
+"Dentro do Cronograma."
+"Dentro do Cronograma."
+"Dentro do Orcamento."
+
+-----------------
+| Instante k: 2 |
+-----------------
+Atividade: "A"
+Tempo estimado: 10
+Tempo atual: 3
+Tempo de inicio cedo(Tes): 0
+Tempo de inicio tarde(Tef): 10
+Tempo de termino tarde(Tlf): 10
+Tempo de termino cedo(Tls): 0
+Folga(GAP): 0
+Custo estimado: 700
+Custo atual: 210.00002
+
+---------- Estado Interno do AMon ----------
+Valor Planejado: 210
+Valor Agregado: 210
+Variacao do periodo: 0
+Variacao do custo real: 0
+Indice de performance do custo: 1
+Indice de performance agendada: 1
+
+---------- Mensagens Preventivas ----------
+"Dentro do Orcamento."
+"Dentro do Cronograma."
+"Dentro do Cronograma."
+"Dentro do Orcamento."
+
+-----------------
+| Instante k: 3 |
+-----------------
+Atividade: "A"
+Tempo estimado: 10
+Tempo atual: 4
+Tempo de inicio cedo(Tes): 0
+Tempo de inicio tarde(Tef): 10
+Tempo de termino tarde(Tlf): 10
+Tempo de termino cedo(Tls): 0
+Folga(GAP): 0
+Custo estimado: 700
+Custo atual: 280
+
+---------- Estado Interno do AMon ----------
+Valor Planejado: 280
+Valor Agregado: 280
+Variacao do periodo: 0
+Variacao do custo real: 0
+Indice de performance do custo: 1
+Indice de performance agendada: 1
+
+---------- Mensagens Preventivas ----------
+"Dentro do Orcamento."
+"Dentro do Cronograma."
+"Dentro do Cronograma."
+"Dentro do Orcamento."
+
+-----------------
+| Instante k: 4 |
+-----------------
+Atividade: "A"
+Tempo estimado: 10
+Tempo atual: 5
+Tempo de inicio cedo(Tes): 0
+Tempo de inicio tarde(Tef): 10
+Tempo de termino tarde(Tlf): 10
+Tempo de termino cedo(Tls): 0
+Folga(GAP): 0
+Custo estimado: 700
+Custo atual: 630
+
+---------- Estado Interno do AMon ----------
+Valor Planejado: 350
+Valor Agregado: 388.8888888888889
+Variacao do periodo: 38.87
+Variacao do custo real: -241.12
+Indice de performance do custo: 0.61
+Indice de performance agendada: 1.11
+
+---------- Mensagens Preventivas ----------
+"Acima do Orcamento (Estouro)."
+"Adiantado no Cronograma."
+"R$ 38.87 a frente do cronograma."
+"R$ -241.12 reais acima do Orcamento."
+
+-----------------
+| Instante k: 5 |
+-----------------
+Atividade: "A"
+Tempo estimado: 10
+Tempo atual: 6
+Tempo de inicio cedo(Tes): 0
+Tempo de inicio tarde(Tef): 10
+Tempo de termino tarde(Tlf): 10
+Tempo de termino cedo(Tls): 0
+Folga(GAP): 0
+Custo estimado: 700
+Custo atual: 700
+
+---------- Estado Interno do AMon ----------
+Valor Planejado: 420
+Valor Agregado: 525
+Variacao do periodo: 105
+Variacao do custo real: -175
+Indice de performance do custo: 0.75
+Indice de performance agendada: 1.25
+
+---------- Mensagens Preventivas ----------
+"Acima do Orcamento (Estouro)."
+"Adiantado no Cronograma."
+"R$ 105.0 a frente do cronograma."
+"R$ -175.0 reais acima do Orcamento."
+
+-----------------
+| Instante k: 5 |
+-----------------
+Atividade: "B"
+Tempo estimado: 5
+Tempo atual: 1
+Tempo de inicio cedo(Tes): 0
+Tempo de inicio tarde(Tef): 5
+Tempo de termino tarde(Tlf): 10
+Tempo de termino cedo(Tls): 5
+Folga(GAP): 5
+Custo estimado: 350
+Custo atual: 70
+
+---------- Estado Interno do AMon ----------
+Valor Planejado: 70
+Valor Agregado: 70
+Variacao do periodo: 0
+Variacao do custo real: 0
+Indice de performance do custo: 1
+Indice de performance agendada: 1
+
+---------- Mensagens Preventivas ----------
+"Dentro do Orcamento."
+"Dentro do Cronograma."
+"Dentro do Cronograma."
+"Dentro do Orcamento."
+
+-----------------
+| Instante k: 6 |
+-----------------
+Atividade: "A"
+Tempo estimado: 10
+Tempo atual: 7
+Tempo de inicio cedo(Tes): 0
+Tempo de inicio tarde(Tef): 10
+Tempo de termino tarde(Tlf): 10
+Tempo de termino cedo(Tls): 0
+Folga(GAP): 0
+Custo estimado: 700
+Custo atual: 770
+
+---------- Estado Interno do AMon ----------
+Valor Planejado: 489.99999999999994
+Valor Agregado: 700
+Variacao do periodo: 210
+Variacao do custo real: -70
+Indice de performance do custo: 0.9
+Indice de performance agendada: 1.42
+
+---------- Mensagens Preventivas ----------
+"Acima do Orcamento (Estouro)."
+"Adiantado no Cronograma."
+"R$ 210.0 a frente do cronograma."
+"R$ -70.0 reais acima do Orcamento."
+
+-----------------
+| Instante k: 6 |
+-----------------
+Atividade: "B"
+Tempo estimado: 5
+Tempo atual: 2
+Tempo de inicio cedo(Tes): 0
+Tempo de inicio tarde(Tef): 5
+Tempo de termino tarde(Tlf): 10
+Tempo de termino cedo(Tls): 5
+Folga(GAP): 5
+Custo estimado: 350
+Custo atual: 140
+
+---------- Estado Interno do AMon ----------
+Valor Planejado: 140
+Valor Agregado: 140
+Variacao do periodo: 0
+Variacao do custo real: 0
+Indice de performance do custo: 1
+Indice de performance agendada: 1
+
+---------- Mensagens Preventivas ----------
+"Dentro do Orcamento."
+"Dentro do Cronograma."
+"Dentro do Cronograma."
+"Dentro do Orcamento."
+
+-----------------
+| Instante k: 7 |
+-----------------
+Atividade: "B"
+Tempo estimado: 5
+Tempo atual: 3
+Tempo de inicio cedo(Tes): 0
+Tempo de inicio tarde(Tef): 5
+Tempo de termino tarde(Tlf): 10
+Tempo de termino cedo(Tls): 5
+Folga(GAP): 5
+Custo estimado: 350
+Custo atual: 210.00002
+
+---------- Estado Interno do AMon ----------
+Valor Planejado: 210
+Valor Agregado: 210
+Variacao do periodo: 0
+Variacao do custo real: 0
+Indice de performance do custo: 1
+Indice de performance agendada: 1
+
+---------- Mensagens Preventivas ----------
+"Dentro do Orcamento."
+"Dentro do Cronograma."
+"Dentro do Cronograma."
+"Dentro do Orcamento."
+
+-----------------
+| Instante k: 8 |
+-----------------
+Atividade: "B"
+Tempo estimado: 5
+Tempo atual: 4
+Tempo de inicio cedo(Tes): 0
+Tempo de inicio tarde(Tef): 5
+Tempo de termino tarde(Tlf): 10
+Tempo de termino cedo(Tls): 5
+Folga(GAP): 5
+Custo estimado: 350
+Custo atual: 280
+
+---------- Estado Interno do AMon ----------
+Valor Planejado: 280
+Valor Agregado: 280
+Variacao do periodo: 0
+Variacao do custo real: 0
+Indice de performance do custo: 1
+Indice de performance agendada: 1
+
+---------- Mensagens Preventivas ----------
+"Dentro do Orcamento."
+"Dentro do Cronograma."
+"Dentro do Cronograma."
+"Dentro do Orcamento."
+
+-----------------
+| Instante k: 9 |
+-----------------
+Atividade: "B"
+Tempo estimado: 5
+Tempo atual: 5
+Tempo de inicio cedo(Tes): 0
+Tempo de inicio tarde(Tef): 5
+Tempo de termino tarde(Tlf): 10
+Tempo de termino cedo(Tls): 5
+Folga(GAP): 5
+Custo estimado: 350
+Custo atual: 350
+
+---------- Estado Interno do AMon ----------
+Valor Planejado: 350
+Valor Agregado: 350
+Variacao do periodo: 0
+Variacao do custo real: 0
+Indice de performance do custo: 1
+Indice de performance agendada: 1
+
+---------- Mensagens Preventivas ----------
+"Dentro do Orcamento."
+"Dentro do Cronograma."
+"Dentro do Cronograma."
+"Dentro do Orcamento."
+
+-----------------
+| Instante k: 11 |
+-----------------
+Atividade: "D"
+Tempo estimado: 15
+Tempo atual: 1
+Tempo de inicio cedo(Tes): 5
+Tempo de inicio tarde(Tef): 20
+Tempo de termino tarde(Tlf): 40
+Tempo de termino cedo(Tls): 25
+Folga(GAP): 20
+Custo estimado: 1050
+Custo atual: 70
+
+---------- Estado Interno do AMon ----------
+Valor Planejado: 70
+Valor Agregado: 70
+Variacao do periodo: 0
+Variacao do custo real: 0
+Indice de performance do custo: 1
+Indice de performance agendada: 1
+
+---------- Mensagens Preventivas ----------
+"Dentro do Orcamento."
+"Dentro do Cronograma."
+"Dentro do Cronograma."
+"Dentro do Orcamento."
+
+-----------------
+| Instante k: 12 |
+-----------------
+Atividade: "C"
+Tempo estimado: 5
+Tempo atual: 1
+Tempo de inicio cedo(Tes): 10
+Tempo de inicio tarde(Tef): 15
+Tempo de termino tarde(Tlf): 15
+Tempo de termino cedo(Tls): 10
+Folga(GAP): 0
+Custo estimado: 350
+Custo atual: 70
+
+---------- Estado Interno do AMon ----------
+Valor Planejado: 70
+Valor Agregado: 70
+Variacao do periodo: 0
+Variacao do custo real: 0
+Indice de performance do custo: 1
+Indice de performance agendada: 1
+
+---------- Mensagens Preventivas ----------
+"Dentro do Orcamento."
+"Dentro do Cronograma."
+"Dentro do Cronograma."
+"Dentro do Orcamento."
+
+-----------------
+| Instante k: 12 |
+-----------------
+Atividade: "D"
+Tempo estimado: 15
+Tempo atual: 2
+Tempo de inicio cedo(Tes): 5
+Tempo de inicio tarde(Tef): 20
+Tempo de termino tarde(Tlf): 40
+Tempo de termino cedo(Tls): 25
+Folga(GAP): 20
+Custo estimado: 1050
+Custo atual: 140
+
+---------- Estado Interno do AMon ----------
+Valor Planejado: 140
+Valor Agregado: 140
+Variacao do periodo: 0
+Variacao do custo real: 0
+Indice de performance do custo: 1
+Indice de performance agendada: 1
+
+---------- Mensagens Preventivas ----------
+"Dentro do Orcamento."
+"Dentro do Cronograma."
+"Dentro do Cronograma."
+"Dentro do Orcamento."
+
+-----------------
+| Instante k: 13 |
+-----------------
+Atividade: "C"
+Tempo estimado: 5
+Tempo atual: 2
+Tempo de inicio cedo(Tes): 10
+Tempo de inicio tarde(Tef): 15
+Tempo de termino tarde(Tlf): 15
+Tempo de termino cedo(Tls): 10
+Folga(GAP): 0
+Custo estimado: 350
+Custo atual: 140
+
+---------- Estado Interno do AMon ----------
+Valor Planejado: 140
+Valor Agregado: 140
+Variacao do periodo: 0
+Variacao do custo real: 0
+Indice de performance do custo: 1
+Indice de performance agendada: 1
+
+---------- Mensagens Preventivas ----------
+"Dentro do Orcamento."
+"Dentro do Cronograma."
+"Dentro do Cronograma."
+"Dentro do Orcamento."
+
+-----------------
+| Instante k: 13 |
+-----------------
+Atividade: "D"
+Tempo estimado: 15
+Tempo atual: 3
+Tempo de inicio cedo(Tes): 5
+Tempo de inicio tarde(Tef): 20
+Tempo de termino tarde(Tlf): 40
+Tempo de termino cedo(Tls): 25
+Folga(GAP): 20
+Custo estimado: 1050
+Custo atual: 210
+
+---------- Estado Interno do AMon ----------
+Valor Planejado: 210
+Valor Agregado: 210
+Variacao do periodo: 0
+Variacao do custo real: 0
+Indice de performance do custo: 1
+Indice de performance agendada: 1
+
+---------- Mensagens Preventivas ----------
+"Dentro do Orcamento."
+"Dentro do Cronograma."
+"Dentro do Cronograma."
+"Dentro do Orcamento."
+
+-----------------
+| Instante k: 14 |
+-----------------
+Atividade: "C"
+Tempo estimado: 5
+Tempo atual: 3
+Tempo de inicio cedo(Tes): 10
+Tempo de inicio tarde(Tef): 15
+Tempo de termino tarde(Tlf): 15
+Tempo de termino cedo(Tls): 10
+Folga(GAP): 0
+Custo estimado: 350
+Custo atual: 210.00002
+
+---------- Estado Interno do AMon ----------
+Valor Planejado: 210
+Valor Agregado: 210
+Variacao do periodo: 0
+Variacao do custo real: 0
+Indice de performance do custo: 1
+Indice de performance agendada: 1
+
+---------- Mensagens Preventivas ----------
+"Dentro do Orcamento."
+"Dentro do Cronograma."
+"Dentro do Cronograma."
+"Dentro do Orcamento."
+
+-----------------
+| Instante k: 14 |
+-----------------
+Atividade: "D"
+Tempo estimado: 15
+Tempo atual: 4
+Tempo de inicio cedo(Tes): 5
+Tempo de inicio tarde(Tef): 20
+Tempo de termino tarde(Tlf): 40
+Tempo de termino cedo(Tls): 25
+Folga(GAP): 20
+Custo estimado: 1050
+Custo atual: 280
+
+---------- Estado Interno do AMon ----------
+Valor Planejado: 280
+Valor Agregado: 280
+Variacao do periodo: 0
+Variacao do custo real: 0
+Indice de performance do custo: 1
+Indice de performance agendada: 1
+
+---------- Mensagens Preventivas ----------
+"Dentro do Orcamento."
+"Dentro do Cronograma."
+"Dentro do Cronograma."
+"Dentro do Orcamento."
+
+-----------------
+| Instante k: 15 |
+-----------------
+Atividade: "C"
+Tempo estimado: 5
+Tempo atual: 4
+Tempo de inicio cedo(Tes): 10
+Tempo de inicio tarde(Tef): 15
+Tempo de termino tarde(Tlf): 15
+Tempo de termino cedo(Tls): 10
+Folga(GAP): 0
+Custo estimado: 350
+Custo atual: 280
+
+---------- Estado Interno do AMon ----------
+Valor Planejado: 280
+Valor Agregado: 280
+Variacao do periodo: 0
+Variacao do custo real: 0
+Indice de performance do custo: 1
+Indice de performance agendada: 1
+
+---------- Mensagens Preventivas ----------
+"Dentro do Orcamento."
+"Dentro do Cronograma."
+"Dentro do Cronograma."
+"Dentro do Orcamento."
+
+-----------------
+| Instante k: 15 |
+-----------------
+Atividade: "D"
+Tempo estimado: 15
+Tempo atual: 5
+Tempo de inicio cedo(Tes): 5
+Tempo de inicio tarde(Tef): 20
+Tempo de termino tarde(Tlf): 40
+Tempo de termino cedo(Tls): 25
+Folga(GAP): 20
+Custo estimado: 1050
+Custo atual: 350
+
+---------- Estado Interno do AMon ----------
+Valor Planejado: 350
+Valor Agregado: 350
+Variacao do periodo: 0
+Variacao do custo real: 0
+Indice de performance do custo: 1
+Indice de performance agendada: 1
+
+---------- Mensagens Preventivas ----------
+"Dentro do Orcamento."
+"Dentro do Cronograma."
+"Dentro do Cronograma."
+"Dentro do Orcamento."
+
+-----------------
+| Instante k: 16 |
+-----------------
+Atividade: "C"
+Tempo estimado: 5
+Tempo atual: 5
+Tempo de inicio cedo(Tes): 10
+Tempo de inicio tarde(Tef): 15
+Tempo de termino tarde(Tlf): 15
+Tempo de termino cedo(Tls): 10
+Folga(GAP): 0
+Custo estimado: 350
+Custo atual: 350
+
+---------- Estado Interno do AMon ----------
+Valor Planejado: 350
+Valor Agregado: 350
+Variacao do periodo: 0
+Variacao do custo real: 0
+Indice de performance do custo: 1
+Indice de performance agendada: 1
+
+---------- Mensagens Preventivas ----------
+"Dentro do Orcamento."
+"Dentro do Cronograma."
+"Dentro do Cronograma."
+"Dentro do Orcamento."
+
+-----------------
+| Instante k: 16 |
+-----------------
+Atividade: "D"
+Tempo estimado: 15
+Tempo atual: 6
+Tempo de inicio cedo(Tes): 5
+Tempo de inicio tarde(Tef): 20
+Tempo de termino tarde(Tlf): 40
+Tempo de termino cedo(Tls): 25
+Folga(GAP): 20
+Custo estimado: 1050
+Custo atual: 420
+
+---------- Estado Interno do AMon ----------
+Valor Planejado: 420
+Valor Agregado: 420
+Variacao do periodo: 0
+Variacao do custo real: 0
+Indice de performance do custo: 1
+Indice de performance agendada: 1
+
+---------- Mensagens Preventivas ----------
+"Dentro do Orcamento."
+"Dentro do Cronograma."
+"Dentro do Cronograma."
+"Dentro do Orcamento."
+
+-----------------
+| Instante k: 17 |
+-----------------
+Atividade: "D"
+Tempo estimado: 15
+Tempo atual: 7
+Tempo de inicio cedo(Tes): 5
+Tempo de inicio tarde(Tef): 20
+Tempo de termino tarde(Tlf): 40
+Tempo de termino cedo(Tls): 25
+Folga(GAP): 20
+Custo estimado: 1050
+Custo atual: 490
+
+---------- Estado Interno do AMon ----------
+Valor Planejado: 490
+Valor Agregado: 490
+Variacao do periodo: 0
+Variacao do custo real: 0
+Indice de performance do custo: 1
+Indice de performance agendada: 1
+
+---------- Mensagens Preventivas ----------
+"Dentro do Orcamento."
+"Dentro do Cronograma."
+"Dentro do Cronograma."
+"Dentro do Orcamento."
+
+-----------------
+| Instante k: 18 |
+-----------------
+Atividade: "D"
+Tempo estimado: 15
+Tempo atual: 8
+Tempo de inicio cedo(Tes): 5
+Tempo de inicio tarde(Tef): 20
+Tempo de termino tarde(Tlf): 40
+Tempo de termino cedo(Tls): 25
+Folga(GAP): 20
+Custo estimado: 1050
+Custo atual: 560
+
+---------- Estado Interno do AMon ----------
+Valor Planejado: 560
+Valor Agregado: 560
+Variacao do periodo: 0
+Variacao do custo real: 0
+Indice de performance do custo: 1
+Indice de performance agendada: 1
+
+---------- Mensagens Preventivas ----------
+"Dentro do Orcamento."
+"Dentro do Cronograma."
+"Dentro do Cronograma."
+"Dentro do Orcamento."
+
+-----------------
+| Instante k: 18 |
+-----------------
+Atividade: "E"
+Tempo estimado: 25
+Tempo atual: 1
+Tempo de inicio cedo(Tes): 15
+Tempo de inicio tarde(Tef): 40
+Tempo de termino tarde(Tlf): 40
+Tempo de termino cedo(Tls): 15
+Folga(GAP): 0
+Custo estimado: 1750
+Custo atual: 70
+
+---------- Estado Interno do AMon ----------
+Valor Planejado: 70
+Valor Agregado: 70
+Variacao do periodo: 0
+Variacao do custo real: 0
+Indice de performance do custo: 1
+Indice de performance agendada: 1
+
+---------- Mensagens Preventivas ----------
+"Dentro do Orcamento."
+"Dentro do Cronograma."
+"Dentro do Cronograma."
+"Dentro do Orcamento."
+
+-----------------
+| Instante k: 18 |
+-----------------
+Atividade: "L"
+Tempo estimado: 10
+Tempo atual: 1
+Tempo de inicio cedo(Tes): 15
+Tempo de inicio tarde(Tef): 25
+Tempo de termino tarde(Tlf): 60
+Tempo de termino cedo(Tls): 50
+Folga(GAP): 35
+Custo estimado: 700
+Custo atual: 70
+
+---------- Estado Interno do AMon ----------
+Valor Planejado: 70
+Valor Agregado: 70
+Variacao do periodo: 0
+Variacao do custo real: 0
+Indice de performance do custo: 1
+Indice de performance agendada: 1
+
+---------- Mensagens Preventivas ----------
+"Dentro do Orcamento."
+"Dentro do Cronograma."
+"Dentro do Cronograma."
+"Dentro do Orcamento."
+
+-----------------
+| Instante k: 19 |
+-----------------
+Atividade: "D"
+Tempo estimado: 15
+Tempo atual: 9
+Tempo de inicio cedo(Tes): 5
+Tempo de inicio tarde(Tef): 20
+Tempo de termino tarde(Tlf): 40
+Tempo de termino cedo(Tls): 25
+Folga(GAP): 20
+Custo estimado: 1050
+Custo atual: 630
+
+---------- Estado Interno do AMon ----------
+Valor Planejado: 630
+Valor Agregado: 630
+Variacao do periodo: 0
+Variacao do custo real: 0
+Indice de performance do custo: 1
+Indice de performance agendada: 1
+
+---------- Mensagens Preventivas ----------
+"Dentro do Orcamento."
+"Dentro do Cronograma."
+"Dentro do Cronograma."
+"Dentro do Orcamento."
+
+-----------------
+| Instante k: 19 |
+-----------------
+Atividade: "E"
+Tempo estimado: 25
+Tempo atual: 2
+Tempo de inicio cedo(Tes): 15
+Tempo de inicio tarde(Tef): 40
+Tempo de termino tarde(Tlf): 40
+Tempo de termino cedo(Tls): 15
+Folga(GAP): 0
+Custo estimado: 1750
+Custo atual: 140
+
+---------- Estado Interno do AMon ----------
+Valor Planejado: 140
+Valor Agregado: 140
+Variacao do periodo: 0
+Variacao do custo real: 0
+Indice de performance do custo: 1
+Indice de performance agendada: 1
+
+---------- Mensagens Preventivas ----------
+"Dentro do Orcamento."
+"Dentro do Cronograma."
+"Dentro do Cronograma."
+"Dentro do Orcamento."
+
+-----------------
+| Instante k: 19 |
+-----------------
+Atividade: "L"
+Tempo estimado: 10
+Tempo atual: 2
+Tempo de inicio cedo(Tes): 15
+Tempo de inicio tarde(Tef): 25
+Tempo de termino tarde(Tlf): 60
+Tempo de termino cedo(Tls): 50
+Folga(GAP): 35
+Custo estimado: 700
+Custo atual: 140
+
+---------- Estado Interno do AMon ----------
+Valor Planejado: 140
+Valor Agregado: 140
+Variacao do periodo: 0
+Variacao do custo real: 0
+Indice de performance do custo: 1
+Indice de performance agendada: 1
+
+---------- Mensagens Preventivas ----------
+"Dentro do Orcamento."
+"Dentro do Cronograma."
+"Dentro do Cronograma."
+"Dentro do Orcamento."
+
+-----------------
+| Instante k: 19 |
+-----------------
+Atividade: "M"
+Tempo estimado: 25
+Tempo atual: 1
+Tempo de inicio cedo(Tes): 25
+Tempo de inicio tarde(Tef): 50
+Tempo de termino tarde(Tlf): 85
+Tempo de termino cedo(Tls): 60
+Folga(GAP): 35
+Custo estimado: 1750
+Custo atual: 70
+
+---------- Estado Interno do AMon ----------
+Valor Planejado: 70
+Valor Agregado: 70
+Variacao do periodo: 0
+Variacao do custo real: 0
+Indice de performance do custo: 1
+Indice de performance agendada: 1
+
+---------- Mensagens Preventivas ----------
+"Dentro do Orcamento."
+"Dentro do Cronograma."
+"Dentro do Cronograma."
+"Dentro do Orcamento."
+

@@ -1,0 +1,18 @@
+
+-------------------------------------------------
+----------| Instante k: 30 |-------
+-----------------------------------------------------
+-----------------
+Solicitação(ID): 1
+Atividade: "I"
+-----------------
+Acréscimo no custo: 11.9
+Acréscimo no tempo: 11.8
+Estado atual da solicitação: null
+---------- Estado Interno do AMud ----------
+Impacto no tempo: 3
+Impacto no custo: 3
+Urgência: 1
+Prioridade: 9
+---------- Mensagens ----------
+"I noticed a new request for Changes in cost and time at the instant 30 for the task: I"
